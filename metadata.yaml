@@ -1,0 +1,41 @@
+_repo: Colas-Breugnon_70371
+_version: 0.0.1
+alternative_title: Colas Breugnon, Burgundian
+contributor:
+  translator:
+    agent_name: Miller, Katherine
+    gutenberg_agent_id: '53787'
+    url: http://www.gutenberg.org/2009/agents/53787
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2023-03-25'
+identifiers:
+  gutenberg: '70371'
+language: en
+pgterms:marc904: https://archive.org/details/colasbreugnon00rolluoft
+pgterms:marc905: 20200904234855rolland
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Peter Becker, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHenry Holt and Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Colas Breugnon
+url: http://www.gutenberg.org/ebooks/70371
